@@ -7,5 +7,5 @@ Steg:
 1. Hitta ett öppet dataset (t.ex. på Kaggle eller OpenWeatherMap).
 2. Analysera datasetet i Python. Exempelvis kan du undersöka hur temperaturen varierar över tid.
 3. Visualisera resultaten för att upptäcka mönster och dra slutsatser.
-V
+
 Vad du lär dig: Dataanalys, visualisering och insiktsgenerering – viktiga färdigheter när du arbetar med IoT-data.
